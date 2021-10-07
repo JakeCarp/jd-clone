@@ -1,0 +1,13 @@
+body{
+    min-height: 100vh;
+}
+.hero{
+    height: 50vh;
+    background-image: url(/assets/nick-reynolds-Im997E8lWho-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.print{
+   
+    background-image: url(/assets/print_original.jpg)
+}
